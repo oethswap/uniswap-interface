@@ -1,4 +1,4 @@
-import { ChainId, JSBI, Pair, Route, Token, TokenAmount, Trade, TradeType } from '@uniswap/sdk'
+import { ChainId, JSBI, Pair, Route, Token, TokenAmount, Trade, TradeType } from 'oethswap-v2-sdk-xdai'
 import { computeTradePriceBreakdown } from './prices'
 
 describe('prices', () => {

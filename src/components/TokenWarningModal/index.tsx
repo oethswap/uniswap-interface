@@ -1,4 +1,4 @@
-import { Token } from '@uniswap/sdk'
+import { Token } from 'oethswap-v2-sdk-xdai'
 import React, { useCallback } from 'react'
 import Modal from '../Modal'
 import { ImportToken } from 'components/SearchModal/ImportToken'

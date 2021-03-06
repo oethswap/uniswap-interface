@@ -1,4 +1,4 @@
-import { Percent } from '@uniswap/sdk'
+import { Percent } from 'oethswap-v2-sdk-xdai'
 import { ALLOWED_PRICE_IMPACT_HIGH, PRICE_IMPACT_WITHOUT_FEE_CONFIRM_MIN } from '../../constants'
 
 /**

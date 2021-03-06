@@ -1,4 +1,4 @@
-import { ChainId, Currency } from '@uniswap/sdk'
+import { ChainId, Currency } from 'oethswap-v2-sdk-xdai'
 import React, { useContext } from 'react'
 import styled, { ThemeContext } from 'styled-components'
 import Modal from '../Modal'

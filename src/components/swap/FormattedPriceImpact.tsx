@@ -1,4 +1,4 @@
-import { Percent } from '@uniswap/sdk'
+import { Percent } from 'oethswap-v2-sdk-xdai'
 import React from 'react'
 import { ONE_BIPS } from '../../constants'
 import { warningSeverity } from '../../utils/prices'

@@ -1,4 +1,4 @@
-import { JSBI } from '@uniswap/sdk'
+import { JSBI } from 'oethswap-v2-sdk-xdai'
 import { useMemo } from 'react'
 import { NEVER_RELOAD, useSingleCallResult } from '../state/multicall/hooks'
 import { useActiveWeb3React } from './index'

@@ -1,4 +1,4 @@
-import { Currency, ETHER, Token } from '@uniswap/sdk'
+import { Currency, ETHER, Token } from 'oethswap-v2-sdk-xdai'
 
 export function currencyId(currency: Currency): string {
   if (currency === ETHER) return 'ETH'
